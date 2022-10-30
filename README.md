@@ -32,6 +32,6 @@
      -[2,3,4,8,7,9,5,15,6]    n-3
      
 
-```
-
 [patika.dev](https://app.patika.dev/)
+
+Kürşad Ali İNOĞLU
